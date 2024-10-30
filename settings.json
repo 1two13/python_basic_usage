@@ -1,0 +1,8 @@
+{
+  "code-runner.executorMap": {
+    "python": "python3 -u"
+  },
+  "code-runner.runInTerminal": true,
+  "editor.formatOnSave": true,
+  "code-runner.saveFileBeforeRun": true
+}
